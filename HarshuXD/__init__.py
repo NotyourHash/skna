@@ -1,4 +1,4 @@
-from HarshuXDBot.core.bot import HarshuXDBot
+from HarshuXD.core.bot import HarshuXD
 from HarshuXD.core.dir import dirr
 from HarshuXD.core.git import git
 from HarshuXD.core.userbot import Userbot
@@ -23,7 +23,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = HarshuXDBot()
+app = HarshuXD()
 
 # Assistant Client
 userbot = Userbot()
