@@ -1,4 +1,4 @@
-from HarshuXD.core.bot import HarshuXDBot
+from HarshuXDBot.core.bot import HarshuXDBot
 from HarshuXD.core.dir import dirr
 from HarshuXD.core.git import git
 from HarshuXD.core.userbot import Userbot
